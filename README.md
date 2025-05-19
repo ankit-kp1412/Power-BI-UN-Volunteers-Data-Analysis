@@ -3,6 +3,9 @@
 **Problem Statement**
 >Understanding and leveraging volunteer data is essential for effective management and strategic decision-making within the United Nations. The provided datasets include volunteer records, geographical information, and organizational details. The primary challenge is to analyze this data to extract actionable insights that support the efficient operation of the organization.
 
+**DATA SOURCES**-https://docs.google.com/spreadsheets/d/1XFrvIdPzFvTj5xtJBhnz86wf97BaqvM27qMcxLYCpyA/edit?gid=0#gid=0
+
+
 🎯 Objective
 >The goal of this project is to use Power BI to transform raw UN Volunteer data into a meaningful, interactive, and visually appealing dashboard. Key objectives include:
 
@@ -43,7 +46,7 @@ Female: Set to 1 for female volunteers and 0 otherwise.
 Power BI (https://github.com/ankit-kp1412/Power-BI-UN-Volunteers-Data-Analysis/blob/main/UN%20Volunteers%20Data%20Analysis.pbix) File: 
 Includes data model, DAX calculations, and dashboards.
 
-Screenshots:
+Screenshots: https://github.com/ankit-kp1412/Power-BI-UN-Volunteers-Data-Analysis/blob/main/snapshot%20of%20un%20volunteers%20analysis.png
 
 ✅ Outcome
 
